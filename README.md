@@ -1,9 +1,11 @@
 # Realtime-Human-tracking
 
 Implemented an online version of ByteTrack algorithm for real time human and object tracking.
+
 Run bytetrack_setup.ipynb for realtime ByteTrack
 
 Also provided an easy way to convert models to Tensorflow/PyTroch/TensorRT using Open Neural Network Exchange (ONNX) protocol.
+
 Run bytetrack_onnx.ipynb for ONNX model conversion.
 
 All credits to ByteTrack - https://github.com/ifzhang/ByteTrack:
